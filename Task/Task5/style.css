@@ -1,0 +1,28 @@
+img{
+    height: 150px;
+}
+.description{
+    font-size: 20px;
+    font-family: Helvetica;
+}
+.cook-time{
+    font-weight: bold;
+    font-family: Helvetica;
+}
+.ingredients{
+    list-style: square;
+    font-family: Helvetica;
+}
+.time{
+    color: gray;
+    font-family: Helvetica;
+}
+.external-link{
+    color: SeaGreen;
+}
+.citation{
+    font-family: Helvetica;
+}
+.fon{
+    font-family: Helvetica;
+}
